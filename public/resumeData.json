@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Carlos Teixeira",
+    "occupation":"Junior Web Developer",
+    "description":"I have a passion for technology and love to create experiences for the user",
+    "image":"myself.jpeg",
+    "bio":"Learning how to speak JavaScript & React at the moment. Really into Front-end as it soothes my OCD senses and need for having things perfectly aligned while also addressing my need to be challenged and find the best possible solution. I'm also a photographer & filmmaker. Visual Storytelling is my craft.",
+    "contactmessage":"That´s ok, you can email me, i am pretty confident that one, but mostly my daugther, will find the time to read it and reply.",
+    "email": "carlos_teixeira66@hotmail.com",
+    "phone": "+41 78*** ****",
+    "address":{
+      "street":"Switzerland",
+      "city":"Cossonay-Ville",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www..com",
+    "resumedownload":"http://.com",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/carlosfrontendev",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/Teixeira66",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Wild Code School",
+        "degree":"Front-end Development",
+        "graduated":"November 2020",
+        "description":"Javascript | ReactJS | HTML5 | CSS3 | SCSS | Bootstrap | NodeJS | mySQL | Git | Github | Unix | Agile | SCRUM"
+      },
+      {
+        "school":"EPFL-Extension School",
+        "degree":"50 Thinks you need to know about Internet",
+        "graduated":"May 2019",
+        "description":"Bachelor Degree in Tourism and Geography. Coursework included multiculturalism, political geography, cultural tourism, regional geography, oceanography, cartography."
+      },
+      {
+        "school":"EPFL-Extension School",
+        "degree":"Thinking and Creating with Code",
+        "graduated":"February 2020",
+        "description":"Bachelor Degree in Tourism and Geography. Coursework included multiculturalism, political geography, cultural tourism, regional geography, oceanography, cartography."
+      }
+    ],
+    
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"25%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"25%"
+      },
+      {
+        "name":"HTML5",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"40%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"Terminal",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"lallalalalalal",
+        "category":"My Travel Blog lalalalalalla",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"lalalallalala",
+        "category":"lalalalallalalal",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"lalalalalalala",
+        "category":"Website I built for a barber shop",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/Teixeira66/cabaret-shop"
+      },
+      {
+        "title":"carlos and sawi",
+        "category":"first wild code school project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"That Carlos Teixeira is a brilliant developer, despite he´s just starting ! It is amazing that nobody has hired him yet. In your position i would hire this guy, he may be fresh out of bootcamp and have zero experience on this field but I am confident that he will be one of your best developers in no time, he is committed, respectful, hard worker , and has a excelent teamspirit.",
+        "user":"Carlos... Teixeira....yes....was me."
+      }
+    ]
+  }
+}
