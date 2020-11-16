@@ -36,8 +36,10 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+       
+               <form action="mailto:carlos_teixeira66@hotmail.com" method="GET">
 					<fieldset>
+               
 
                   <div>
 						   <label htmlFor="contactName">Name <span className="required">*</span></label>
@@ -58,9 +60,10 @@ class Contact extends Component {
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
                      <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
                   </div>
-
+                  
                   <div>
-                     <button className="submit">Submit</button>
+                     <button className="submit">Submit</button> 
+                     
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
@@ -68,7 +71,7 @@ class Contact extends Component {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+           <div id="message-warning">Please try again</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
