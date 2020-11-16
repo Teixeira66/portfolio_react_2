@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+ Wild Code School
+# React Project
+# Personal Portfolio
+![Image of Yaktocat](https://github.com/Teixeira66/Portfolio-React/blob/master/src/img/myvideo.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
