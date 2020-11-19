@@ -88,28 +88,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"lallalalalalal",
-        "category":"My Travel Blog lalalalalalla",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"lalalallalala",
-        "category":"lalalalallalalal",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"lalalalalalala",
-        "category":"Website I built for a barber shop",
-        "image":"original-thai-food.jpg",
-        "url":"https://github.com/Teixeira66/cabaret-shop"
-      },
-      {
-        "title":"carlos and sawi",
+        "title":"Carlos and Sawi Wild School Project",
         "category":"first wild code school project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "image":"mainpage.png",
+        "url":"https://github.com/webdevelopmentsk/Wild-Code-School-Project-1"
+      },
+      {
+        "title":"Cabaret Barber Shop",
+        "category":"Website I built for a barber shop",
+        "image":"transferir.jpeg",
+        "url":"https://github.com/Teixeira66/cabaret-shop"
+        
+      },
+      {"title":"Multiconverter",
+        "category":"Praticing with javascript",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://github.com/Teixeira66/Javascript-Multiconverter"
+      },
+      {
+        "title":"Python",
+        "category":"A guessing number small game in python",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://github.com/Teixeira66/Python-The_Number_Game"
       }
     ]
   },
